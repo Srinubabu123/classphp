@@ -1,5 +1,5 @@
 <?php
 class Myclass{
-    echo " hi srinu"
+    echo " hi srinu";
 }
 ?>
